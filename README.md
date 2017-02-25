@@ -43,19 +43,19 @@ have the format:
 *Chris Fawcett, Malte Helmert, Holger H. Hoos, Erez Karpas, Gabriele R&ouml;ger and Jendrik Seipp*
 <br/>International Planning Competition Planner Abstracts (IPC 2011)
 <br/>:exclamation: *2nd place in the IPC-2011 Learning Track and 4th in the Sequential Satisficing Track.*
-<br/>[\[pdf\]](2011b-IPC-FawcettEtAl-FD-Autotune.pdf) [\[bib\]](2011b-IPC-FawcettEtAl-FD-Autotune.bib) **Note: Please use [2011d](#fd-autotune-domain-specific-configuration-using-fast-downward) when citing this work.**
+<br/>[\[pdf\]](2011b-IPC-FawcettEtAl-FD-Autotune.pdf) [\[bib\]](2011b-IPC-FawcettEtAl-FD-Autotune.bib) Note: Please use [\[2011d\]](#fd-autotune-domain-specific-configuration-using-fast-downward) when citing this work.
 
 ####ParLPG: Generating Domain-Specific Planners Through Automatic Parameter Configuration
 *Mauro Vallati, Chris Fawcett, Alfonso E. Gerevini, Holger H. Hoos and Alessandro Saetti*
 <br/>International Planning Competition Planner Abstracts (IPC 2011)
 <br/>:exclamation: *3rd place in the IPC-2011 Learning Track.*
-<br/>[\[pdf\]](2011c-IPC-VallatiEtAl-ParLPG.pdf) [\[bib\]](2011c-IPC-VallatiEtAl-ParLPG.bib) **Note: Please use [2013](#automatic-generation-of-efficient-domain-specific-planners-from-generic-parameterized-planners) when citing this work.**
+<br/>[\[pdf\]](2011c-IPC-VallatiEtAl-ParLPG.pdf) [\[bib\]](2011c-IPC-VallatiEtAl-ParLPG.bib) Note: Please use [\[2013\]](#automatic-generation-of-efficient-domain-specific-planners-from-generic-parameterized-planners) when citing this work.
 
 ####A Multiphase Modular Heuristic Solver for Post Enrollment Course Timetabling
 *Marco Chiarandini, Chris Fawcett and Holger H. Hoos*
 <br/>Second International Planning Competition Solver Abstracts (ITC2007)
 <br/>:exclamation: *3rd place in the ITC2007 Post-Enrollment Course Timetabling Track.*
-<br/>[\[pdf\]](2008-ITC-ChiarandiniFawcettHoos-Timetabling.pdf) [\[bib\]](2008-ITC-ChiarandiniFawcettHoos-Timetabling.bib) **Note: Please use [\[2009b\]](#an-automatically-configured-modular-algorithm-for-post-enrollment-course-timetabling-1) when citing this work.**
+<br/>[\[pdf\]](2008-ITC-ChiarandiniFawcettHoos-Timetabling.pdf) [\[bib\]](2008-ITC-ChiarandiniFawcettHoos-Timetabling.bib) Note: Please use [\[2009b\]](#an-automatically-configured-modular-algorithm-for-post-enrollment-course-timetabling-1) when citing this work.
 
 
 ## 2017
@@ -89,7 +89,7 @@ have the format:
 ####Portfolio Methods for Optimal Planning: an Empirical Analysis
 *Mattia Rizzini, Chris Fawcett, Mauro Vallati, Alfonso E. Gerevini and Holger H. Hoos
 <br/>Proceedings of the 27th IEEE Conference on Tools with Artificial Intelligence (ICTAI 2015)
-<br/>[\[pdf\]](2015-ICTAI-RizziniEtAl-PlanningPortfolios.pdf) [\[bib\]](2015-ICTAI-RizziniEtAl-PlanningPortfolios.bib) **Note: this paper is subsumed by [2017](#static-and-dynamic-portfolio-methods-for-optimal-planning-an-empirical-analysis). Please use that paper when citing this work.**
+<br/>[\[pdf\]](2015-ICTAI-RizziniEtAl-PlanningPortfolios.pdf) [\[bib\]](2015-ICTAI-RizziniEtAl-PlanningPortfolios.bib) Note: this paper is subsumed by [\[2017\]](#static-and-dynamic-portfolio-methods-for-optimal-planning-an-empirical-analysis). Please use that paper when citing this work.
 
 
 ## 2014
@@ -111,7 +111,7 @@ have the format:
 *Chris Fawcett and Holger H. Hoos*
 <br/>Proceedings of the 10th Metaheuristics International Conference (MIC 2013)
 <br/>:exclamation: *One of four papers officially nominated for the MIC 2013 best paper award.*
-<br/>[\[pdf\]](2013b-MIC-FawcettHoos-AblationAnalysis.pdf) [\[bib\]](2013b-MIC-FawcettHoos-AblationAnalysis.bib) **Note: this paper is subsumed by [2016](#analysing-differences-between-algorithm-configurations-through-ablation). Please use that paper when citing this work.**
+<br/>[\[pdf\]](2013b-MIC-FawcettHoos-AblationAnalysis.pdf) [\[bib\]](2013b-MIC-FawcettHoos-AblationAnalysis.bib) Note: this paper is subsumed by [\[2016\]](#analysing-differences-between-algorithm-configurations-through-ablation). Please use that paper when citing this work.
 
 ####Automatic Generation of Efficient Domain-Specific Planners from Generic Parameterized Planners
 *Mauro Vallati, Chris Fawcett, Alfonso E. Gerevini, Holger H. Hoos and Alessandro Saetti*
@@ -124,12 +124,12 @@ have the format:
 ####Automatic Generation of Efficient Domain-Optimized Planners from Generic Parameterized Planners
 *Mauro Vallati, Chris Fawcett, Alfonso E. Gerevini, Holger H. Hoos, Alessandro Saetti*
 <br/>Proceedings of the 18th IJCAI International Workshop on "Experimental Evaluation of Algorithms for Solving Problems with Combinatorial Explosion" (IJCAI RCRA 2011)
-<br/>[\[pdf\]](2011f-IJCAI-RCRA-VallatiEtAl-ParLPG.pdf) [\[bib\]](2011f-IJCAI-RCRA-VallatiEtAl-ParLPG.bib) **Note: this paper is subsumed by [2013](#automatic-generation-of-efficient-domain-specific-planners-from-generic-parameterized-planners). Please use that paper when citing this work.**
+<br/>[\[pdf\]](2011f-IJCAI-RCRA-VallatiEtAl-ParLPG.pdf) [\[bib\]](2011f-IJCAI-RCRA-VallatiEtAl-ParLPG.bib) Note: this paper is subsumed by [\[2013\]](#automatic-generation-of-efficient-domain-specific-planners-from-generic-parameterized-planners). Please use that paper when citing this work.
 
 ####Generating Fast Domain-Optimised Planners by Automatically Configuring a Generic Parameterised Planner
 *Mauro Vallati, Chris Fawcett, Alfonso E. Gerevini, Holger H. Hoos, Alessandro Saetti*
 <br/>Proceedings of the Third ICAPS Workshop on Planning and Learning (ICAPS-PAL 2011)
-<br/>[\[pdf\]](2011e-ICAPS-PAL-VallatiEtAl-ParLPG.pdf) [\[bib\]](2011e-ICAPS-PAL-VallatiEtAl-ParLPG.bib) **Note: this paper is subsumed by [2013](#automatic-generation-of-efficient-domain-specific-planners-from-generic-parameterized-planners). Please use that paper when citing this work.**
+<br/>[\[pdf\]](2011e-ICAPS-PAL-VallatiEtAl-ParLPG.pdf) [\[bib\]](2011e-ICAPS-PAL-VallatiEtAl-ParLPG.bib) Note: this paper is subsumed by [\[2013\]](#automatic-generation-of-efficient-domain-specific-planners-from-generic-parameterized-planners). Please use that paper when citing this work.
 
 ####FD-Autotune: Domain-Specific Configuration Using Fast Downward
 *Chris Fawcett, Malte Helmert, Holger H. Hoos, Erez Karpas, Gabriele R&ouml;ger and Jendrik Seipp*
@@ -153,7 +153,7 @@ have the format:
 *Chris Fawcett, Holger H. Hoos and Marco Chiarandini*
 <br/>Doctoral Symposium on Engineering Stochastic Local Search Algorithms (SLS-DS 2009)
 <br/>:exclamation: *The poster for this paper was awarded "Best Presentation" of SLS-DS 2009.*
-<br/>[\[pdf\]](2009-SLS-DS-FawcettHoosChiarandini-Timetabling.pdf) [\[poster\]](2009-SLS-DS-poster-FawcettHoosChiarandini-Timetabling.pdf) [\[bib\]](2009-SLS-DS-poster-FawcettHoosChiarandini-Timetabling.bib) **Note: this paper is subsumed by [\[2009b\]](#an-automatically-configured-modular-algorithm-for-post-enrollment-course-timetabling-1). Please use that paper when citing this work.**
+<br/>[\[pdf\]](2009-SLS-DS-FawcettHoosChiarandini-Timetabling.pdf) [\[poster\]](2009-SLS-DS-poster-FawcettHoosChiarandini-Timetabling.pdf) [\[bib\]](2009-SLS-DS-poster-FawcettHoosChiarandini-Timetabling.bib) Note: this paper is subsumed by [\[2009b\]](#an-automatically-configured-modular-algorithm-for-post-enrollment-course-timetabling-1). Please use that paper when citing this work.
 
 
 ## 2008
@@ -161,4 +161,4 @@ have the format:
 ####A Modular Multiphase Heuristic Solver for Post Enrollment Course Timetabling
 *Marco Chiarandini, Chris Fawcett and Holger H. Hoos*
 <br/>Proceedings of the 7th International Conference on the Practice and Theory of Automated Timetabling (PATAT 2008)
-<br/>[\[pdf\]](2008b-PATAT-ChiarandiniFawcettHoos-Timetabling.pdf) [\[bib\]](2008b-PATAT-ChiarandiniFawcettHoos-Timetabling.bib) **Note: this paper is subsumed by [\[2009b\]](#an-automatically-configured-modular-algorithm-for-post-enrollment-course-timetabling-1). Please use that paper when citing this work.**
+<br/>[\[pdf\]](2008b-PATAT-ChiarandiniFawcettHoos-Timetabling.pdf) [\[bib\]](2008b-PATAT-ChiarandiniFawcettHoos-Timetabling.bib) Note: this paper is subsumed by [\[2009b\]](#an-automatically-configured-modular-algorithm-for-post-enrollment-course-timetabling-1). Please use that paper when citing this work.
