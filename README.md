@@ -4,7 +4,7 @@ This repository is intended to serve as a central location for PDF and BibTex
 for all of my academic papers and competition entries. Paper filenames are generally
 of the form
 
-> [year][index]-[authors]-[topic].pdf
+    [year][index]-[authors]-[topic].pdf
 
 ## Selected papers
 
