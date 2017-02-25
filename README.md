@@ -14,7 +14,7 @@ have the format:
 ## Competition entries
 
 
-###A Multiphase Modular Heuristic Solver for Post Enrollment Course Timetabling
+####A Multiphase Modular Heuristic Solver for Post Enrollment Course Timetabling
 *Marco Chiarandini, Chris Fawcett and Holger H. Hoos*
 Second International Planning Competition Solver Abstracts (ITC2007)
 :exclamation: *The solver described in this paper placed 3rd in the ITC2007 Post-Enrollment Course Timetabling Track*
