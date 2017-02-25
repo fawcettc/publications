@@ -36,7 +36,26 @@ have the format:
 
 ## 2014
 
+####AClib: A Benchmark Library for Algorithm Configuration
+*Frank Hutter, Manuel L&oacute;pez-Ib&aacute;&ntilde;ez, Chris Fawcett, Marius Lindauer, Holger H. Hoos, Kevin Leyton-Brown and Thomas St&uuml;tzle*
+<br/>Proceedings of the 8th Learning and Intelligent Optimization Conference (LION 8)
+
+####Improved Features for Runtime Prediction of Domain-Independent Planners
+*Chris Fawcett, Mauro Vallati, Frank Hutter, J&ouml;rg Hoffmann, Holger H. Hoos and Kevin Leyton-Brown*
+<br/>Proceedings of the 24th International Conference on Automated Planning and Scheduling (ICAPS 2014)
+
+
 ## 2013
+
+####Automatic Generation of Efficient Domain-Specific Planners from Generic Parameterized Planners
+*Mauro Vallati, Chris Fawcett, Alfonso E. Gerevini, Holger H. Hoos and Alessandro Saetti*
+<br/>Proceedings of the 6th Annual Symposium on Combinatorial Search (SoCS 2013)
+
+####Analysing Differences Between Algorithm Configurations Through Ablation
+*Chris Fawcett and Holger H. Hoos*
+<br/>Proceedings of the 10th Metaheuristics International Conference (MIC 2013)
+<br/>:exclamation: One of four papers officially nominated for the MIC 2013 best paper award.
+
 
 ## 2011
 
@@ -67,11 +86,10 @@ have the format:
 ####An Automatically Configured Modular Algorithm for Post Enrollment Course Timetabling
 *Chris Fawcett, Holger H. Hoos and Marco Chiarandini*
 <br/>University of British Columbia Department of Computer Science Technical Report TR-2009-15
-<br/>13 pages
+
 
 ## 2008
 
 ####A Modular Multiphase Heuristic Solver for Post Enrollment Course Timetabling (Extended Abstract)
 *Marco Chiarandini, Chris Fawcett and Holger H. Hoos*
 <br/>Proceedings of the 7th International Conference on the Practice and Theory of Automated Timetabling (PATAT 2008)
-<br/>6 pages
