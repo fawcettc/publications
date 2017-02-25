@@ -87,7 +87,7 @@ have the format:
 ## 2015
 
 ####Portfolio Methods for Optimal Planning: an Empirical Analysis
-*Mattia Rizzini, Chris Fawcett, Mauro Vallati, Alfonso E. Gerevini and Holger H. Hoos
+*Mattia Rizzini, Chris Fawcett, Mauro Vallati, Alfonso E. Gerevini and Holger H. Hoos*
 <br/>Proceedings of the 27th IEEE Conference on Tools with Artificial Intelligence (ICTAI 2015)
 <br/>[\[pdf\]](2015-ICTAI-RizziniEtAl-PlanningPortfolios.pdf) [\[bib\]](2015-ICTAI-RizziniEtAl-PlanningPortfolios.bib) Note: this paper is subsumed by [\[2017\]](#static-and-dynamic-portfolio-methods-for-optimal-planning-an-empirical-analysis). Please use that paper when citing this work.
 
@@ -136,7 +136,7 @@ have the format:
 <br/>Proceedings of the 3rd ICAPS Workshop on Planning and Learning (ICAPS-PAL 2011)
 <br/>[\[pdf\]](2011d-ICAPS-PAL-FawcettEtAl-FD-Autotune.pdf) [\[bib\]](2011d-ICAPS-PAL-FawcettEtAl-FD-Autotune.bib)
 
-####HAL: A Framework for the Automated Analysis and Design of High-Performacne Algorithms
+####HAL: A Framework for the Automated Analysis and Design of High-Performance Algorithms
 *Christopher Nell, Chris Fawcett, Holger H. Hoos and Kevin Leyton-Brown*
 <br/>Proceedings of the 5th Learning and Intelligent Optimization Conference (LION 5)
 <br/>[\[pdf\]](2011-LION-NellFawcettHoos-HAL.pdf) [\[bib\]](2011-LION-NellFawcettHoos-HAL.bib)
