@@ -153,7 +153,7 @@ have the format:
 *Chris Fawcett, Holger H. Hoos and Marco Chiarandini*
 <br/>Doctoral Symposium on Engineering Stochastic Local Search Algorithms (SLS-DS 2009)
 <br/>:exclamation: *The poster for this paper was awarded "Best Presentation" of SLS-DS 2009.*
-<br/>[[\[pdf\]](2009-SLS-DS-FawcettHoosChiarandini-Timetabling.pdf) [\[poster\]](2009-SLS-DS-poster-FawcettHoosChiarandini-Timetabling.pdf) \[bib\]](2009-SLS-DS-poster-FawcettHoosChiarandini-Timetabling.bib) **Note: this paper is subsumed by [\[2009b\]](#an-automatically-configured-modular-algorithm-for-post-enrollment-course-timetabling-1). Please use that paper when citing this work.**
+<br/>[\[pdf\]](2009-SLS-DS-FawcettHoosChiarandini-Timetabling.pdf) [\[poster\]](2009-SLS-DS-poster-FawcettHoosChiarandini-Timetabling.pdf) [\[bib\]](2009-SLS-DS-poster-FawcettHoosChiarandini-Timetabling.bib) **Note: this paper is subsumed by [\[2009b\]](#an-automatically-configured-modular-algorithm-for-post-enrollment-course-timetabling-1). Please use that paper when citing this work.**
 
 
 ## 2008
