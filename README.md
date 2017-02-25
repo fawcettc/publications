@@ -13,6 +13,15 @@ have the format:
 
 ## Competition entries
 
+####FD-Autotune: Automated Configuration of Fast Downward
+*Chris Fawcett, Malte Helmert, Holger H. Hoos, Erez Karpas, Gabriele R&ouml;ger and Jendrik Seipp*
+<br/>International Planning Competition Planner Abstracts (IPC 2011)
+<br/>:exclamation: Placed 2nd in the IPC-2011 Learning Track and 4th in the Sequential Satisficing Track
+
+####ParLPG: Generating Domain-Specific Planners Through Automatic Parameter Configuration
+*Mauro Vallati, Chris Fawcett, Alfonso E. Gerevini, Holger H. Hoos and Alessandro Saetti*
+<br/>International Planning Competition Planner Abstracts (IPC 2011)
+<br/>:exclamation: Placed 3rd in the IPC-2011 Learning Track
 
 ####A Multiphase Modular Heuristic Solver for Post Enrollment Course Timetabling
 *Marco Chiarandini, Chris Fawcett and Holger H. Hoos*
@@ -30,6 +39,23 @@ have the format:
 ## 2013
 
 ## 2011
+
+####HAL: A Framework for the Automated Analysis and Design of High-Performacne Algorithms
+*Christopher Nell, Chris Fawcett, Holger H. Hoos and Kevin Leyton-Brown*
+<br/>Proceedings of the 5th Learning and Intelligent Optimization Conference (LION 5)
+
+####FD-Autotune: Domain-Specific Configuration Using Fast Downward
+*Chris Fawcett, Malte Helmert, Holger H. Hoos, Erez Karpas, Gabriele R&ouml;ger and Jendrik Seipp*
+<br/>Proceedings of the 3rd ICAPS Workshop on Planning and Learning (ICAPS-PAL 2011)
+
+####Generating Fast Domain-Optimised Planners by Automatically Configuring a Generic Parameterised Planner
+*Mauro Vallati, Chris Fawcett, Alfonso E. Gerevini, Holger H. Hoos, Alessandro Saetti*
+<br/>Proceedings of the Third ICAPS Workshop on Planning and Learning (ICAPS-PAL 2011)
+
+####Automatic Generation of Efficient Domain-Optimized Planners from Generic Parameterized Planners
+*Mauro Vallati, Chris Fawcett, Alfonso E. Gerevini, Holger H. Hoos, Alessandro Saetti*
+<br/>Proceedings of the 18th IJCAI International Workshop on "Experimental Evaluation of Algorithms for Solving Problems with Combinatorial Explosion" (IJCAI RCRA 2011)
+
 
 ## 2009
 
