@@ -121,4 +121,4 @@ have the format:
 ####A Modular Multiphase Heuristic Solver for Post Enrollment Course Timetabling
 *Marco Chiarandini, Chris Fawcett and Holger H. Hoos*
 <br/>Proceedings of the 7th International Conference on the Practice and Theory of Automated Timetabling (PATAT 2008)
-<br/>[pdf](2008b-PATAT-ChiarandiniFawcettHoos-Timetabling.pdf) [bib](2008b-PATAT-ChiarandiniFawcettHoos-Timetabling.bib) **Note: this paper is subsumed by [2009b](#an-automatically-configured-modular-algorithm-for-post-enrollment-course-timetabling-1). Please use that paper when citing this work.**
+<br/>[\[pdf\]](2008b-PATAT-ChiarandiniFawcettHoos-Timetabling.pdf) [\[bib\]](2008b-PATAT-ChiarandiniFawcettHoos-Timetabling.bib) **Note: this paper is subsumed by [\[2009b\]](#an-automatically-configured-modular-algorithm-for-post-enrollment-course-timetabling-1). Please use that paper when citing this work.**
