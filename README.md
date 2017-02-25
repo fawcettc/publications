@@ -1,4 +1,4 @@
-# Chris Fawcett's Publications
+ # Chris Fawcett's Publications
 
 This repository is intended to serve as a central location for PDF and BibTex
 for all of my academic papers and competition entries. Paper filenames generally
@@ -118,6 +118,7 @@ have the format:
 
 ## 2008
 
-####A Modular Multiphase Heuristic Solver for Post Enrollment Course Timetabling (Extended Abstract)
+####A Modular Multiphase Heuristic Solver for Post Enrollment Course Timetabling
 *Marco Chiarandini, Chris Fawcett and Holger H. Hoos*
 <br/>Proceedings of the 7th International Conference on the Practice and Theory of Automated Timetabling (PATAT 2008)
+[pdf](2008b-PATAT-ChiarandiniFawcettHoos-Timetabling.pdf) [bib](2008b-PATAT-ChiarandiniFawcettHoos-Timetabling.bib)
