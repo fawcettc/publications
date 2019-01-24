@@ -57,6 +57,13 @@ have the format:
 <br/>:exclamation: *3rd place in the ITC2007 Post-Enrollment Course Timetabling Track.*
 <br/>[\[pdf\]](2008-ITC-ChiarandiniFawcettHoos-Timetabling.pdf) [\[bib\]](2008-ITC-ChiarandiniFawcettHoos-Timetabling.bib) Note: Please use [\[2009b\]](#an-automatically-configured-modular-algorithm-for-post-enrollment-course-timetabling-1) when citing this work.
 
+## 2018
+
+#### Performance Robustness of AI Planners in the 2014 International Planning Competition
+*Andrea F. Bocchese, Chris Fawcett, Mauro Vallati, Alfonso E. Gerevini and Holger H. Hoos*
+<br/>AI Communications, 31(6) pp. 445-463
+<br/>[\[pdf\]](2018-AICOMM-BoccheseEtAl-PlanningPerformanceRobustness.pdf) [\[bib\]](2018-AICOMM-BoccheseEtAl-PlanningPerformanceRobustness.bib)
+
 
 ## 2017
 
